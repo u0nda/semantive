@@ -1,0 +1,8 @@
+.idea
+**/.DS_Store
+**.pytest_cache
+.pytest_cache
+venv
+semantive.iml
+**/app.log
+__pycache__/
